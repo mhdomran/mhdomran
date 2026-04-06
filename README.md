@@ -1,20 +1,31 @@
-# Professional Profile
+# Professional Flutter Developer Profile
 
-## Flutter Mobile App Developer
+## Tech Badges
+![Flutter](https://img.shields.io/badge/Flutter-0.0.0?style=flat&logo=Flutter&logoColor=white&color=0D75E0)
+![Dart](https://img.shields.io/badge/Dart-0.0.0?style=flat&logo=Dart&logoColor=white&color=00BFFF)
+![Git](https://img.shields.io/badge/Git-0.0.0?style=flat&logo=Git&logoColor=white&color=F05032)
+![Firebase](https://img.shields.io/badge/Firebase-0.0.0?style=flat&logo=Firebase&logoColor=white&color=FFCA28)
 
-Hello! I'm a passionate Flutter mobile app developer with extensive experience in building high-performance applications.
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhdomran&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-### Skills
-- Proficient in Dart and Flutter framework
-- Solid understanding of mobile UI/UX principles
-- Experience with RESTful APIs and third-party libraries
-- Knowledge of state management techniques (Provider, Bloc, etc.)
-- Familiarity with Firebase and cloud services
+## Experience
+### Flutter Developer
+- **Company Name** - *Position* in *Dates*
+  - Description of responsibilities and achievements.
 
-### Projects
-- **Project A**: A description of project A that showcases your skills.
-- **Project B**: A description of project B that highlights your achievements.
-- **Project C**: A description of project C that represents your experience in the field.
+### Software Engineer
+- **Company Name** - *Position* in *Dates*
+  - Description of responsibilities and achievements.
 
-### Contact
-Feel free to reach out to me via [my portfolio](https://your-portfolio-link.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+## Certifications
+- **Certification Name** - *Providing Organization* (Year)
+- **Certification Name** - *Providing Organization* (Year)
+
+## Projects
+- **Project Name** - Description, technologies used, and links.
+- **Project Name** - Description, technologies used, and links.
+
+## Social Links
+- [LinkedIn](https://linkedin.com/in/mhdomran)
+- [Twitter](https://twitter.com/mhdomran)
