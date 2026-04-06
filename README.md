@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{https://github.com/mhdomran}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/mhdomran/count.svg" alt="Visitor's Count" />
 </div>
 <!--
 **mhdomran/mhdomran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
